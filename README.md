@@ -8,8 +8,7 @@ A structured, documented path through JavaScript — from fundamentals to advanc
 ---
 
 ## Structure
-
-​```
+```
 JavaScript-Journey/
 │
 ├── Phase-1-Fundamentals/
@@ -37,7 +36,7 @@ JavaScript-Journey/
     ├── 02-Prototypes/
     ├── 03-Design-Patterns/
     └── 04-Projects/
-​```
+```
 
 Each folder contains a `.js` file with practice code and a `README.md` with notes on that concept.
 
